@@ -1,4 +1,4 @@
-#Soru 7: Fibonacci dizisini hesaplayan ve sonucu belirli bir sınıra kadar sayı
+# Fibonacci dizisini hesaplayan ve sonucu belirli bir sınıra kadar sayı
 #  içeren bir liste olarak döndüren bir döngü nasıl oluşturulur?
 
 sinir = int(input("Sınır Sayısını Giriniz : "))
